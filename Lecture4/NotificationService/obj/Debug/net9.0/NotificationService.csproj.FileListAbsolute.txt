@@ -1,0 +1,3 @@
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\NotificationService\bin\Debug\net9.0\NotificationService.exe
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\NotificationService\bin\Debug\net9.0\NotificationService.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\NotificationService\bin\Debug\net9.0\RabbitMQ.Client.dll
