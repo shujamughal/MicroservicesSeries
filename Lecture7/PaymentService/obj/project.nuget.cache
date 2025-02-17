@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "r6l2pHe/aSI=",
+  "success": true,
+  "projectFilePath": "C:\\Shuja data\\Github repos\\MicroservicesSeries\\Lecture7\\PaymentService\\PaymentService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dr.Shuja Rahman\\.nuget\\packages\\masstransit\\8.3.6\\masstransit.8.3.6.nupkg.sha512",
+    "C:\\Users\\Dr.Shuja Rahman\\.nuget\\packages\\masstransit.abstractions\\8.3.6\\masstransit.abstractions.8.3.6.nupkg.sha512",
+    "C:\\Users\\Dr.Shuja Rahman\\.nuget\\packages\\masstransit.aspnetcore\\7.3.1\\masstransit.aspnetcore.7.3.1.nupkg.sha512",
+    "C:\\Users\\Dr.Shuja Rahman\\.nuget\\packages\\masstransit.extensions.dependencyinjection\\7.3.1\\masstransit.extensions.dependencyinjection.7.3.1.nupkg.sha512",
+    "C:\\Users\\Dr.Shuja Rahman\\.nuget\\packages\\masstransit.rabbitmq\\8.3.6\\masstransit.rabbitmq.8.3.6.nupkg.sha512",
+    "C:\\Users\\Dr.Shuja Rahman\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\Dr.Shuja Rahman\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Dr.Shuja Rahman\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Dr.Shuja Rahman\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\9.0.0\\microsoft.extensions.diagnostics.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Dr.Shuja Rahman\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks\\9.0.0\\microsoft.extensions.diagnostics.healthchecks.9.0.0.nupkg.sha512",
+    "C:\\Users\\Dr.Shuja Rahman\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks.abstractions\\9.0.0\\microsoft.extensions.diagnostics.healthchecks.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Dr.Shuja Rahman\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.0\\microsoft.extensions.fileproviders.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Dr.Shuja Rahman\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\9.0.0\\microsoft.extensions.hosting.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Dr.Shuja Rahman\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0\\microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Dr.Shuja Rahman\\.nuget\\packages\\microsoft.extensions.options\\9.0.0\\microsoft.extensions.options.9.0.0.nupkg.sha512",
+    "C:\\Users\\Dr.Shuja Rahman\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+    "C:\\Users\\Dr.Shuja Rahman\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\Dr.Shuja Rahman\\.nuget\\packages\\rabbitmq.client\\7.0.0\\rabbitmq.client.7.0.0.nupkg.sha512",
+    "C:\\Users\\Dr.Shuja Rahman\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\Dr.Shuja Rahman\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
