@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Shuja data\\Github repos\\MicroservicesSeries\\Lecture7\\APIGateway\\APIGateway\\APIGateway.csproj": {}
+    "C:\\Shuja\\Code Examples\\MicroServicesSeries\\Lecture7\\APIGateway\\APIGateway\\APIGateway.csproj": {}
   },
   "projects": {
-    "C:\\Shuja data\\Github repos\\MicroservicesSeries\\Lecture7\\APIGateway\\APIGateway\\APIGateway.csproj": {
+    "C:\\Shuja\\Code Examples\\MicroServicesSeries\\Lecture7\\APIGateway\\APIGateway\\APIGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Shuja data\\Github repos\\MicroservicesSeries\\Lecture7\\APIGateway\\APIGateway\\APIGateway.csproj",
+        "projectUniqueName": "C:\\Shuja\\Code Examples\\MicroServicesSeries\\Lecture7\\APIGateway\\APIGateway\\APIGateway.csproj",
         "projectName": "APIGateway",
-        "projectPath": "C:\\Shuja data\\Github repos\\MicroservicesSeries\\Lecture7\\APIGateway\\APIGateway\\APIGateway.csproj",
-        "packagesPath": "C:\\Users\\Dr.Shuja Rahman\\.nuget\\packages\\",
-        "outputPath": "C:\\Shuja data\\Github repos\\MicroservicesSeries\\Lecture7\\APIGateway\\APIGateway\\obj\\",
+        "projectPath": "C:\\Shuja\\Code Examples\\MicroServicesSeries\\Lecture7\\APIGateway\\APIGateway\\APIGateway.csproj",
+        "packagesPath": "C:\\Users\\shuja\\.nuget\\packages\\",
+        "outputPath": "C:\\Shuja\\Code Examples\\MicroServicesSeries\\Lecture7\\APIGateway\\APIGateway\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dr.Shuja Rahman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\shuja\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -83,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
