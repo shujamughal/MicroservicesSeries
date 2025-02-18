@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "A2OS29q6kl1+GfydBgMis3jwZGjxrARt6wqrtPuszTE=",
+  "Source": "CatalogService",
+  "BasePath": "_content/CatalogService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

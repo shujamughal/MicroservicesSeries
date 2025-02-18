@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Shuja\\Code Examples\\MicroServicesSeries\\Lecture9\\CatalogService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36C7FC4A-ECC1-4592-A1BA-D080737FB282}|CatalogService.csproj|c:\\shuja\\code examples\\microservicesseries\\lecture9\\catalogservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C7FC4A-ECC1-4592-A1BA-D080737FB282}|CatalogService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C7FC4A-ECC1-4592-A1BA-D080737FB282}|CatalogService.csproj|c:\\shuja\\code examples\\microservicesseries\\lecture9\\catalogservice\\catalogservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36C7FC4A-ECC1-4592-A1BA-D080737FB282}|CatalogService.csproj|solutionrelative:catalogservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C7FC4A-ECC1-4592-A1BA-D080737FB282}|CatalogService.csproj|c:\\shuja\\code examples\\microservicesseries\\lecture9\\catalogservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36C7FC4A-ECC1-4592-A1BA-D080737FB282}|CatalogService.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatalogService.csproj",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\MicroServicesSeries\\Lecture9\\CatalogService\\CatalogService.csproj",
+              "RelativeDocumentMoniker": "CatalogService.csproj",
+              "ToolTip": "C:\\Shuja\\Code Examples\\MicroServicesSeries\\Lecture9\\CatalogService\\CatalogService.csproj",
+              "RelativeToolTip": "CatalogService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T13:38:21.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\MicroServicesSeries\\Lecture9\\CatalogService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Shuja\\Code Examples\\MicroServicesSeries\\Lecture9\\CatalogService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T05:26:31.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\MicroServicesSeries\\Lecture9\\CatalogService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Shuja\\Code Examples\\MicroServicesSeries\\Lecture9\\CatalogService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:52:14.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 366,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

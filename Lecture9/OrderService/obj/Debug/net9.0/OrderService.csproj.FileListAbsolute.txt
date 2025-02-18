@@ -1,0 +1,292 @@
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture2\OrderService\bin\Debug\net9.0\OrderService.exe
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture2\OrderService\bin\Debug\net9.0\OrderService.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture2\OrderService\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture2\OrderService\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture2\OrderService\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture2\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture2\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture2\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture2\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture2\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture2\OrderService\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture2\OrderService\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture2\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture2\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture2\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Http.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture2\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Http.Polly.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture2\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture2\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture2\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture2\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture2\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture2\OrderService\bin\Debug\net9.0\Polly.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture2\OrderService\bin\Debug\net9.0\Polly.Extensions.Http.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\OrderService.csproj.AssemblyReference.cache
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\OrderService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\OrderService.AssemblyInfoInputs.cache
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\OrderService.AssemblyInfo.cs
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\OrderService.csproj.CoreCompileInputs.cache
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\OrderService.MvcApplicationPartsAssemblyInfo.cs
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\OrderService.MvcApplicationPartsAssemblyInfo.cache
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\OrderService.sourcelink.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\appsettings.Development.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\appsettings.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\OrderService.staticwebassets.endpoints.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\OrderService.exe
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\OrderService.deps.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\OrderService.runtimeconfig.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\OrderService.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\OrderService.pdb
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Http.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Http.Polly.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\Polly.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\Polly.Extensions.Http.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\scopedcss\bundle\OrderService.styles.css
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\staticwebassets.build.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\staticwebassets.development.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.OrderService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.OrderService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.build.OrderService.props
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.OrderService.props
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.OrderService.props
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\OrderSer.4493321F.Up2Date
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\OrderService.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\refint\OrderService.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\OrderService.pdb
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\OrderService.genruntimeconfig.cache
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture3\OrderService\obj\Debug\net9.0\ref\OrderService.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\OrderService\bin\Debug\net9.0\OrderService.exe
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\OrderService\bin\Debug\net9.0\OrderService.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\OrderService\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\OrderService\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\OrderService\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\OrderService\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\OrderService\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Http.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture4\OrderService\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\appsettings.Development.json
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\appsettings.json
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\OrderService.staticwebassets.endpoints.json
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\OrderService.exe
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\OrderService.deps.json
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\OrderService.runtimeconfig.json
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\OrderService.dll
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\OrderService.pdb
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\MassTransit.dll
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\MassTransit.Abstractions.dll
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\MassTransit.AspNetCoreIntegration.dll
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\MassTransit.RabbitMqTransport.dll
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Http.Polly.dll
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\Polly.dll
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\Polly.Extensions.Http.dll
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\Contracts.dll
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\bin\Debug\net9.0\Contracts.pdb
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderService.csproj.AssemblyReference.cache
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderService.AssemblyInfoInputs.cache
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderService.AssemblyInfo.cs
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderService.csproj.CoreCompileInputs.cache
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderService.MvcApplicationPartsAssemblyInfo.cs
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderService.MvcApplicationPartsAssemblyInfo.cache
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderService.sourcelink.json
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\scopedcss\bundle\OrderService.styles.css
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\staticwebassets.build.json
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\staticwebassets.development.json
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.OrderService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.OrderService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.build.OrderService.props
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.OrderService.props
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.OrderService.props
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderSer.4493321F.Up2Date
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderService.dll
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\refint\OrderService.dll
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderService.pdb
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderService.genruntimeconfig.cache
+C:\Shuja data\Github repos\MicroservicesSeries\Lecture7\OrderService\obj\Debug\net9.0\ref\OrderService.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\appsettings.Development.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\appsettings.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\OrderService.staticwebassets.endpoints.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\OrderService.exe
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\OrderService.deps.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\OrderService.runtimeconfig.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\OrderService.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\OrderService.pdb
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\MassTransit.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\MassTransit.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\MassTransit.AspNetCoreIntegration.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\MassTransit.RabbitMqTransport.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Http.Polly.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\Polly.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\Polly.Extensions.Http.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\Contracts.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\bin\Debug\net9.0\Contracts.pdb
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderService.csproj.AssemblyReference.cache
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderService.AssemblyInfoInputs.cache
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderService.AssemblyInfo.cs
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderService.csproj.CoreCompileInputs.cache
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderService.MvcApplicationPartsAssemblyInfo.cs
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderService.MvcApplicationPartsAssemblyInfo.cache
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderService.sourcelink.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\scopedcss\bundle\OrderService.styles.css
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\staticwebassets.build.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\staticwebassets.development.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.OrderService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.OrderService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.build.OrderService.props
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.OrderService.props
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.OrderService.props
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderSer.4493321F.Up2Date
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderService.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\refint\OrderService.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderService.pdb
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\OrderService.genruntimeconfig.cache
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture7\OrderService\obj\Debug\net9.0\ref\OrderService.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\appsettings.Development.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\appsettings.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\OrderService.staticwebassets.endpoints.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\OrderService.exe
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\OrderService.deps.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\OrderService.runtimeconfig.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\OrderService.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\OrderService.pdb
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\MassTransit.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\MassTransit.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\MassTransit.AspNetCoreIntegration.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\MassTransit.RabbitMqTransport.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Http.Polly.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\Polly.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\Polly.Extensions.Http.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\Contracts.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\bin\Debug\net9.0\Contracts.pdb
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\OrderService.csproj.AssemblyReference.cache
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\OrderService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\OrderService.AssemblyInfoInputs.cache
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\OrderService.AssemblyInfo.cs
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\OrderService.csproj.CoreCompileInputs.cache
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\OrderService.MvcApplicationPartsAssemblyInfo.cs
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\OrderService.MvcApplicationPartsAssemblyInfo.cache
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\OrderService.sourcelink.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\scopedcss\bundle\OrderService.styles.css
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\staticwebassets.build.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\staticwebassets.development.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.OrderService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.OrderService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.build.OrderService.props
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.OrderService.props
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.OrderService.props
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\OrderSer.4493321F.Up2Date
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\OrderService.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\refint\OrderService.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\OrderService.pdb
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\OrderService.genruntimeconfig.cache
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture8\OrderService\obj\Debug\net9.0\ref\OrderService.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\appsettings.Development.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\appsettings.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\OrderService.staticwebassets.endpoints.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\OrderService.exe
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\OrderService.deps.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\OrderService.runtimeconfig.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\OrderService.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\OrderService.pdb
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\MassTransit.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\MassTransit.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\MassTransit.AspNetCoreIntegration.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\MassTransit.RabbitMqTransport.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\Microsoft.Extensions.Http.Polly.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\Polly.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\Polly.Extensions.Http.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\Contracts.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\bin\Debug\net9.0\Contracts.pdb
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\OrderService.csproj.AssemblyReference.cache
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\OrderService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\OrderService.AssemblyInfoInputs.cache
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\OrderService.AssemblyInfo.cs
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\OrderService.csproj.CoreCompileInputs.cache
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\OrderService.MvcApplicationPartsAssemblyInfo.cs
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\OrderService.MvcApplicationPartsAssemblyInfo.cache
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\OrderService.sourcelink.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\scopedcss\bundle\OrderService.styles.css
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\staticwebassets.build.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\staticwebassets.development.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.OrderService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.OrderService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.build.OrderService.props
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.OrderService.props
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.OrderService.props
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\OrderSer.4493321F.Up2Date
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\OrderService.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\refint\OrderService.dll
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\OrderService.pdb
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\OrderService.genruntimeconfig.cache
+C:\Shuja\Code Examples\MicroServicesSeries\Lecture9\OrderService\obj\Debug\net9.0\ref\OrderService.dll
